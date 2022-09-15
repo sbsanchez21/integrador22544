@@ -1,0 +1,6 @@
+- instalar git 
+- crear cuenta en github
+- crear carpeta y programar el integrador
+- terminal -> new terminal
+- git init 
+- git add .
